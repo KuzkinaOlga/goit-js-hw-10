@@ -18,3 +18,21 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.countrie_name {
+  font-weight: bold;
+}
+.countrie_logo {
+  display: flex;
+  align-items: center;
+}
+.text_normal {
+  font-weight: bold;
+}
+.countries_item {
+  display: flex;
+  align-items: center;
+}
+.img_logo {
+  margin-right: 10px;
+}
